@@ -494,7 +494,7 @@ function Pricing() {
                 <p className="pricing-tagline">কোনো আপফ্রন্ট খরচ নেই</p>
               </div>
               <div className="pricing-price">
-                <span className="price-current price-alt">৫%</span>
+                <span className="price-current price-alt">10%</span>
                 <span className="price-period">/বিক্রয়ের উপর</span>
               </div>
               <p className="pricing-desc">
